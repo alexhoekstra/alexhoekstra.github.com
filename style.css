@@ -1,0 +1,12 @@
+h1.heading {
+	text-align: center;
+	margin-top: 0.5em;
+	color: #090000;
+	font-family: Georgia,"Times New Roman",Times,serif;
+	font-size: 50px;
+}
+
+h1.heading em{
+	color: #9C0001;
+	font-style: normal;
+}
