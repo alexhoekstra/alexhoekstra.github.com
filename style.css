@@ -11,5 +11,10 @@ h1.heading em{
 	font-style: normal;
 }
 body{
-	background-color: #000000;
+	background-color: #E4B04A
+;}
+
+p{
+	color:#0000CC;
+	font-style: normal;
 }
